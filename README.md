@@ -16,22 +16,23 @@ Este é um sistema de gerenciamento de projetos ágeis, desenvolvido com Node.js
    	```bash
    	git clone https://github.com/mateus83/projeto_agil.git
 
+2. Vá para o direttório criado
 	```bash
     	cd projeto_agil
 
-2. Instale as dependências:
+3. Instale as dependências:
 	```bash
  	npm install
 
-3. Configure o banco de dados:
+4. Configure o banco de dados:
 	```bash
  	python setup_db.py
 
-4. Inicie o servidor:
+5. Inicie o servidor:
 	```bash
  	npm start
 
-5. Abra o navegador e acesse:
+6. Abra o navegador e acesse:
 	```bash
    	http://localhost:3000
 
