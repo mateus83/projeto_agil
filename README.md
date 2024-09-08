@@ -14,7 +14,7 @@ Este é um sistema de gerenciamento de projetos ágeis, desenvolvido com Node.js
 
 1. Clone o repositório:
    	```bash
-   	git clone https://github.com/seu-usuario/projeto_agil.git
+   	git clone https://github.com/mateus83/projeto_agil.git
    	cd projeto_agil
 
 2. Instale as dependências:
