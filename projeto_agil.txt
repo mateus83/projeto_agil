@@ -1,0 +1,12 @@
+projeto_agil/
+├── public/
+│   ├── index.html
+│   ├── login.html
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── scripts.js
+├── server.js
+├── setup_db.py
+├── package.json
+└── README.md
