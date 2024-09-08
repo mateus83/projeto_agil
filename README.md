@@ -22,19 +22,19 @@ Este é um sistema de gerenciamento de projetos ágeis, desenvolvido com Node.js
 
 3. Instale as dependências:
 	```bash
- npm install
+    npm install
 
 4. Configure o banco de dados:
 	```bash
- python setup_db.py
+    python setup_db.py
 
 5. Inicie o servidor:
 	```bash
- npm start
+    npm start
 
 6. Abra o navegador e acesse:
 	```bash
- http://localhost:3000
+    http://localhost:3000
 
 ### Próximos Passos
 
